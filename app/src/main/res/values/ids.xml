@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_send_data" type="id" />
+    <item name="tv_received_data" type="id" />
+    <item name="tv_fragment_content" type="id" />
+    <item name="fragment_container" type="id" />
+    <item name="planet_list_view" type="id" />
+    <item name="tv_planet_detail" type="id" />
+</resources>
